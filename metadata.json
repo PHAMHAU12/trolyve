@@ -1,0 +1,8 @@
+{
+  "name": "TRỢ LÝ VẼ HÌNH _ PHẠM HẬU",
+  "description": "Ứng dụng Trợ lý Vẽ hình Toán học AI chuẩn SGK Việt Nam. Nạp đề toán (văn bản hoặc OCR ảnh) và tự động dựng hình 3D/2D đẹp, chuẩn logic toán học, chính xác tuyệt đối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
